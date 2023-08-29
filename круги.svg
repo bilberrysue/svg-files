@@ -1,0 +1,5 @@
+<svg width="150px" height="50px">
+  <circle cx="25" cy="25" r="20" fill="red" />
+  <circle cx="75" cy="25" r="20" fill="red" />
+  <circle cx="125" cy="25" r="20" fill="red" />
+</svg>
