@@ -1,0 +1,23 @@
+<svg width="800" height="600">
+            <ellipse cx="280" cy="430" rx="60" ry="20" fill="lightgrey" />
+            <ellipse cx="580" cy="430" rx="60" ry="20" fill="lightgrey" />
+            <circle cx="280" cy="330" r="100" fill="orange" />
+            <circle cx="580" cy="330" r="100" fill="#ffdb00" />
+            <circle cx="540" cy="300" r="40" fill="white" />
+            <circle cx="600" cy="300" r="40" fill="white" />
+            <circle cx="530" cy="300" r="10" fill="black" />
+            <circle cx="590" cy="300" r="10" fill="black" />
+            <circle cx="320" cy="300" r="40" fill="white" />
+            <circle cx="260" cy="300" r="40" fill="white" />
+            <circle cx="330" cy="300" r="10" fill="black" />
+            <circle cx="270" cy="300" r="10" fill="black" />
+            <circle cx="295" cy="340" r="15" fill="black" />
+            <ellipse cx="280" cy="380" rx="20" ry="10" fill="red" />
+            <ellipse cx="570" cy="380" rx="10" ry="20" fill="red" />
+            <ellipse cx="220" cy="300" rx="70" ry="25" fill="orange" transform="rotate(15)"></ellipse>
+            <polygon points="190,290 190,210 250,240" fill="orange" />
+            <polygon points="195,285 195,220 245,245" fill="black" />
+            <polygon points="290,240 330,190 360,270" fill="orange" />
+            <polygon points="305,235 330,200 350,260" fill="black" />
+            <polygon points="70,330 100,320 90,350" fill="white"/>
+            </svg>
